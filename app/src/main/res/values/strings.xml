@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Iman_Tulenaliev_hw3_4</string>
+    <string name="link_sahara_star"><![CDATA[https://cf.bstatic.com/xdata/images/hotel/max1024x768/84319709.jpg?k=e900952aa7b0147fc85021611928b942f84c4c1582d07942e3edcccefdcf702c&o=&hp=1]]></string>
+    <string name="Hygienic">https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/itemimages/61/66/6166840_v2.jpeg</string>
+    <string name="Aster_Hotel">https://pix6.agoda.net/hotelImages/6395685/-1/b71f87ab0c1ba1e4e3a15fca6860f708.jpg</string>
+    <string name="Kinkum_Hotel">https://pix10.agoda.net/hotelImages/532/532361/532361_17062014340053891008.jpg</string>
+    <string name="Hotel_Flora"><![CDATA[https://cf.bstatic.com/xdata/images/hotel/max1280x900/243313043.jpg?k=d45acea92675ca9160e87f272df1c83ec4cd5c6ccaa692d8d008127d5cbb4755&o=&hp=1]]></string>
+    <string name="Hotel_Balwas"><![CDATA[https://cf.bstatic.com/xdata/images/hotel/max1280x900/373263707.jpg?k=6a433c2c1199b61afcfb8b8a97ca8cd3043530e5613f89142f2281c62d70eb52&o=&hp=1]]></string>
+</resources>
